@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/elias-lind-431546221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias-lind-431546221" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20302753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20302753" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/swe-from-sweden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swe-from-sweden" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCR2r_WNyTvdNOjnlSfYguRQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swe-from-sweden" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eliaslind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eliaslind" height="30" width="40" /></a>
 </p>
 
