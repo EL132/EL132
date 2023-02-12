@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el132&label=Profile%20views&color=0e75b6&style=flat" alt="el132" /> </p>
 
-- 🔭 I’m currently working on an [Unnamed Pygame Project](https://github.com/EL132/tech-dawgs)
+- 🔭 I’m currently working on a full stack application with a local startup KnowAthens.
 
 - 🌱 I’m currently learning **Pygame, mySQL, Nest.js, and Vue.js**
 
