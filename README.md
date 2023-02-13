@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with my [Unnamed Pygame Project](https://github.com/EL132/tech-dawgs)
 
-- 👨‍💻 All of my projects are available at [https://el132.github.io/PersonalWebsite/](https://el132.github.io/PersonalWebsite/)
+- 👨‍💻 All of my completed projects are available at [https://el132.github.io/PersonalWebsite/](https://el132.github.io/PersonalWebsite/)
 
 - 💬 Ask me about **life as a student with a love for culture and computer science!**
 
