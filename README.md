@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pygame, mySQL, Nest.js, and Vue.js**
 
-- 🤝 I’m looking for help with my [Unnamed Pygame Project](https://github.com/EL132/tech-dawgs)
+- 🤝 I’m looking for help with [Platformer](https://github.com/EL132/tech-dawgs): a platformer game made using pygame.
 
 - 👨‍💻 All of my completed projects are available at [https://el132.github.io/PersonalWebsite/](https://el132.github.io/PersonalWebsite/)
 
