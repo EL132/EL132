@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **life as a student with a love for culture and computer science!**
 
-- 📫 How to reach me **elias.lind6@gmail.com**
+- 📫 How to reach me: **elias.lind6@gmail.com**
 
 - ⚡ Fun fact **I am half Swedish and was born in Mexico**
 
