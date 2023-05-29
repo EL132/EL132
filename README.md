@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el132&label=Profile%20views&color=0e75b6&style=flat" alt="el132" /> </p>
 
-- 🔭 I’m currently working on a full stack application with a startup called KnowAthens.
+- 🔭 I’m currently working on remaking my personal website.
 
-- 🌱 I’m currently learning **Pygame, mySQL, Nest.js, and Vue.js**
+- 🌱 I’m currently learning **Pygame, RPA (Robotic Process Automation), and ServiceNow development skills.**
 
 - 🤝 I’m looking for help with [Platformer](https://github.com/EL132/tech-dawgs): a platformer game made using pygame.
 
