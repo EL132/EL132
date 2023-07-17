@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on remaking my personal website.
 
-- 🌱 I’m currently learning **Pygame, RPA (Robotic Process Automation), and ServiceNow development skills.**
+- 🌱 I’m currently learning **interview skills and C#**
 
-- 🤝 I’m looking for help with [Platformer](https://github.com/EL132/tech-dawgs): a platformer game made using pygame.
+- 🤝 I’m looking for help with finding a new personal project.
 
 - 👨‍💻 All of my completed projects are available at [https://el132.github.io/PersonalWebsite/](https://el132.github.io/PersonalWebsite/)
 
