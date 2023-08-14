@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el132&label=Profile%20views&color=0e75b6&style=flat" alt="el132" /> </p>
 
-- 🔭 I’m currently working on remaking my personal website.
+- 🔭 I’m currently working on a Django and React LLM tool.
 
-- 🌱 I’m currently learning **interview skills and C#**
+- 🌱 I’m currently learning **interview skills**
 
-- 🤝 I’m looking for help with finding a new personal project.
+- 🤝 I’m looking for help with finding more personal projects.
 
 - 👨‍💻 All of my completed projects are available at [https://el132.github.io/PersonalWebsite/](https://el132.github.io/PersonalWebsite/)
 
