@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my completed projects are available at [https://el132.github.io/new-website](https://el132.github.io/new-website)
 
-- 💬 Ask me about **cs topics, urban planning, mental health, poetry, religion, or anything else!**
+- 💬 Reach out to me about **projects you want my help on!**
 
 - 📫 How to reach me: **elias.lind6@gmail.com**
 
