@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el132&label=Profile%20views&color=0e75b6&style=flat" alt="el132" /> </p>
 
-- 🔭 I’m currently working on a Django and React LLM tool.
-
-- 🌱 I’m currently learning **interview skills**
+- 🌱 I’m currently working on an AWS Cloud Practitioner certification.
 
 - 🤝 I’m looking for help with finding more personal projects.
 
-- 👨‍💻 All of my completed projects are available at [https://el132.github.io/PersonalWebsite/](https://el132.github.io/PersonalWebsite/)
+- 👨‍💻 All of my completed projects are available at [https://el132.github.io/new-website](https://el132.github.io/new-website)
 
-- 💬 Ask me about **life as a student with a love for culture and computer science!**
+- 💬 Ask me about **cs topics, urban planning, mental health, poetry, religion, or anything else!**
 
 - 📫 How to reach me: **elias.lind6@gmail.com**
 
