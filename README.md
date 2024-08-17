@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el132&label=Profile%20views&color=0e75b6&style=flat" alt="el132" /> </p>
 
-- 🌱 I’m currently working on an AWS Cloud Practitioner certification.
+- 🌱 I’m currently working on a new 3-D personal website.
 
 - 🤝 I’m looking for help with finding more personal projects.
 
-- 👨‍💻 All of my completed projects are available at [https://el132.github.io/new-website](https://el132.github.io/new-website)
+- 👨‍💻 All of my completed projects are available at [www.elias-lind.com](www.elias-lind.com)
 
 - 💬 Reach out to me about **projects you want my help on!**
 
